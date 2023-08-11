@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="">
+  <img src="https://github.com/not-indro/Expense_Tracker/blob/main/Expense.png">
 </p>
 
 # Expense Tracker
